@@ -91,6 +91,7 @@ A comprehensive RESTful API for managing a car dealership system, built with .NE
    ```
    http://localhost:5050/swagger
    ```
+   Note: Somtimes the app is opened in a diffrent port (5057 for example) , in that case just change the port number in the link 
 
 ### Default Credentials
 
